@@ -15,7 +15,6 @@
 
 ## Feito por:
 
-### Joana Santos
+### Alex Rocha
 
-### Linkedin: https://www.linkedin.com/school/aluracursos/
-
+### Linkedin: https://www.linkedin.com/in/alexjsrocha/
